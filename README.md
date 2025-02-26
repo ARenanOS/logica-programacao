@@ -6,13 +6,13 @@ Este repositório contém desafios, algoritmos e projetos desenvolvidos para pra
 - `algoritmos/` → Algoritmos clássicos como busca binária e ordenação.
 - `desafios/` → Exercícios de lógica como palíndromo e fatorial.
 - `automacao/` → Scripts de automação para tarefas repetitivas.
-- `jogos/` → Pequenos jogos como Jogo da Velha e Forca.
+- `jogos/` → Pequenos jogos como Jogo da Velha e Forca. ('Em Contrução')
 
 ## 🚀 Tecnologias Usadas
 - Python 🐍
 - JavaScript 🖥️
 - Cypress ✅
-- Robot Framework 🤖
+- Robot Framework 🤖 ('Em Contrução')
 
 ## 🛠️ Como Rodar os Códigos
 ```bash
